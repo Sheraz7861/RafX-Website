@@ -1,0 +1,269 @@
+#menu-bar{
+    background-color: black;
+    z-index: 500;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    top: 0;
+}
+
+#menu-bar a{
+    float: left;
+    display: block;
+    width: 33%;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+#menu-bar a:hover{
+    text-decoration: underline;
+    
+}
+
+#menu-bar-bottom{
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    z-index: 500;
+    width: 100%;
+    background-color: black;
+    height: 100px;
+}
+
+#menu-bar-bottom a{
+    float: left;
+    display: block;
+    width: 50%;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    padding-top: 40px;
+}
+
+#menu-bar-bottom a:hover{
+    text-decoration: underline;
+}
+
+body{
+    background-image: url('images/image2.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#logo{
+    background-color: rgba(0,0,0,0.6);
+    width: 25%;
+    display: block;
+    margin-top: 1200px;
+    padding: 10px;
+}
+
+#logo img{
+    width: 100%;
+}
+
+.courses{
+    background-color: rgba(0,0,0,0.6);
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.courses h2{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 35px;
+}
+
+.courses h3{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.courses p{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.courses-2{
+    background-color: rgba(0,0,0,0.6);
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.courses-2 h2{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 35px;
+}
+
+.courses-2 h3{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.courses-2 p{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.courses-3{
+    background-color: rgba(0,0,0,0.6);
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 130px;
+}
+
+.courses-3 h2{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 35px;
+}
+
+.courses-3 h3{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.courses-3 p{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 25px
+}
+
+#purchase{
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
+#purchase a{
+    background-color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 7px;
+    border-radius: 10px
+}
+
+#purchase-2{
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
+#purchase-2 a{
+    background-color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 7px;
+    border-radius: 10px
+}
+
+#purchase-3{
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
+#purchase-3 a{
+    background-color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 7px;
+    border-radius: 10px
+}
+
+.contact{
+    background-color: rgba(0,0,0,0.6);
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.contact label{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact textarea{
+    padding: 40px;
+}
+
+.contact img{
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 13px;
+}
+
+#submitBtn{
+    display: block;
+    margin: auto;
+    font-size: 23px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px;
+    font-family: sans-serif;
+    color: black;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
